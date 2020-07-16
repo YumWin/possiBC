@@ -86,11 +86,12 @@ def generateWeightJSONfile(filepath,targetfile):
 
 if __name__ == '__main__':
     dir="D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\userCSVFiles"
-    targetfile="topsisDebugScore.csv"
+    targetFileList = ['topsisDebugScore.csv', 'topsisFirstConscore.csv', 'topsisAlgorthmScore.csv']
     # 一共有三种targetfile topsisDebugScore.csv  topsisFirstConscore.csv topsisAlgorthmScore.csv
-    targetCSVFileList= get_TargetCSVFileList(dir,targetfile)
-    for csvfile in targetCSVFileList:
-        generateWeightJSONfile(csvfile,targetfile)
+    for targetfile in targetFileList:
+        targetCSVFileList= get_TargetCSVFileList(dir,targetfile)
+        for csvfile in targetCSVFileList:
+            generateWeightJSONfile(csvfile,targetfile)
     # .......................需要整合
     # 得到各数据的权重
     # metadata = pd.read_csv("D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\theEntropyMethod\\test2.csv", encoding='utf8')

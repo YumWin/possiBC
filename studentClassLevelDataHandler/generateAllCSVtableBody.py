@@ -84,7 +84,7 @@ def fillTypeLevelCSVfile(path, target):
         # print(rowsTrueData)
 if __name__ == '__main__':
     tableFilelist = getTableFileList('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\userCSVFiles')
+    targetList=['topsisDebugScore','topsisFirstConscore','topsisAlgorthmScore']
     for file in tableFilelist:
-        # print(file)
-        # getTableFileList(file)
-        fillTypeLevelCSVfile(file,'topsisDebugScore')
+        for target in targetList:
+            fillTypeLevelCSVfile(file,target)
