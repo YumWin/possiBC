@@ -1,0 +1,18 @@
+{
+ "(user:)2222":
+   [
+     {
+       "case_type": "字符串",
+       "FirstConscore": 40,
+       "DebugScore": 50,
+       "AlgorthmScore": 60
+     },
+      {
+       "case_type": "线性表",
+       "FirstConscore": 40,
+       "DebugScore": 50,
+       "AlgorthmScore": 60
+     }
+   ]
+
+}

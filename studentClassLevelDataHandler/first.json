@@ -1,0 +1,167 @@
+{
+ "(user)2222":
+   [
+     {
+       "case_id": "2908",
+       "case_type": "字符串",
+       "topsisDebugScore": 40,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 60
+     },
+      {
+       "case_id": "2909",
+       "case_type": "字符串",
+       "topsisDebugScore": 60,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 60
+     }, {
+       "case_id": "2910",
+       "case_type": "字符串",
+       "topsisDebugScore": 80,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 80
+     }, {
+       "case_id": "2911",
+       "case_type": "字符串",
+       "topsisDebugScore": 20,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 20
+     },
+      {
+       "case_id": "2920",
+       "case_type": "图算法",
+       "topsisDebugScore": 40,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 60
+     },
+      {
+       "case_id": "2921",
+       "case_type": "图算法",
+       "topsisDebugScore": 60,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 90
+     }, {
+       "case_id": "2922",
+       "case_type": "图算法",
+       "topsisDebugScore": 80,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 77
+     },{
+       "case_id": "2923",
+       "case_type": "图算法",
+       "topsisDebugScore": 80,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 25
+     }
+   ],
+"(user)3333":
+   [
+      {
+       "case_id": "2908",
+       "case_type": "字符串",
+       "topsisDebugScore": 40,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 60
+     },
+      {
+       "case_id": "2909",
+       "case_type": "字符串",
+       "topsisDebugScore": 60,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 60
+     }, {
+       "case_id": "2910",
+       "case_type": "字符串",
+       "topsisDebugScore": 80,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 80
+     }, {
+       "case_id": "2911",
+       "case_type": "字符串",
+       "topsisDebugScore": 20,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 20
+     },
+      {
+       "case_id": "2920",
+       "case_type": "图算法",
+       "topsisDebugScore": 40,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 60
+     },
+      {
+       "case_id": "2921",
+       "case_type": "图算法",
+       "topsisDebugScore": 60,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 90
+     }, {
+       "case_id": "2922",
+       "case_type": "图算法",
+       "topsisDebugScore": 80,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 77
+     },{
+       "case_id": "2923",
+       "case_type": "图算法",
+       "topsisDebugScore": 80,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 25
+     }
+   ],
+  "(user)4444":
+   [
+      {
+       "case_id": "2908",
+       "case_type": "字符串",
+       "topsisDebugScore": 88,
+       "topsisFirstConscore": 10,
+       "topsisAlgorthmScore": 20
+     },
+      {
+       "case_id": "2909",
+       "case_type": "字符串",
+       "topsisDebugScore": 70,
+       "topsisFirstConscore": 90,
+       "topsisAlgorthmScore": 80
+     }, {
+       "case_id": "2910",
+       "case_type": "字符串",
+       "topsisDebugScore": 80,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 80
+     }, {
+       "case_id": "2911",
+       "case_type": "字符串",
+       "topsisDebugScore": 100,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 100
+     },
+      {
+       "case_id": "2920",
+       "case_type": "图算法",
+       "topsisDebugScore": 66,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 4
+     },
+      {
+       "case_id": "2921",
+       "case_type": "图算法",
+       "topsisDebugScore": 99,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 7
+     }, {
+       "case_id": "2922",
+       "case_type": "图算法",
+       "topsisDebugScore": 80,
+       "topsisFirstConscore": 10,
+       "topsisAlgorthmScore": 77
+     },{
+       "case_id": "2923",
+       "case_type": "图算法",
+       "topsisDebugScore": 80,
+       "topsisFirstConscore": 40,
+       "topsisAlgorthmScore": 25
+     }
+   ]
+}
