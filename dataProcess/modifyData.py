@@ -115,4 +115,5 @@ def getFirstConstructionJson():
         f = open('E:\\possiBC\\preData\\firstConstruction.json', 'w')
         f.write(info_json)
 
+getDebugJson()
 getFirstConstructionJson()

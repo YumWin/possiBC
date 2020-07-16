@@ -46,8 +46,9 @@ def centropyWeightMethodCalculateWeight(metadata):
     return weights
 
 #将原始csv数据读入：第一行为指标姓名，下面每行为每个学生的对应指标的结果
-
-metadata = pd.read_csv('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\theEntropyMethod\\test.csv', encoding='utf8')
+metadata ={'a': [0,2,3,4,5], 'b': [1,2,3,1,5], 'c': [2,3,2,5,2]}
+metadata=pd.DataFrame(metadata)
+# metadata={}
 #去除空值的记录
 metadata.dropna()
 
@@ -57,5 +58,5 @@ if __name__ == '__main__':
     weights.index = metadata.columns
     print('得到结果::')
     weights.columns = ['weight']
-    print(weights)
+    print(weights.to_dict('list')['weight'])
 
