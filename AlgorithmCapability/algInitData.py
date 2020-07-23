@@ -58,28 +58,28 @@ Fileinfo=[]
 # filePath=[]
 # userId=[]
 i = 0
-with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\possiBC\\source_file\\sample.json', 'r', encoding='utf8')as fp:
+with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\AlgorithmCapability\\group3_data.json', 'r', encoding='utf8')as fp:
     json_data = json.load(fp)
     for key in json_data:
         caseList = list(json_data[key]['cases'])
         # userId.append(str(json_data['user_id']))
-        os.makedirs('D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm\\' + str(json_data[key]['user_id']))
+        os.makedirs('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm\\' + str(json_data[key]['user_id']))
         os.makedirs(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm\\' + str(json_data[key]['user_id']) + '\\字符串')
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm\\' + str(json_data[key]['user_id']) + '\\字符串')
         os.makedirs(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm\\' + str(json_data[key]['user_id']) + '\\线性表')
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm\\' + str(json_data[key]['user_id']) + '\\线性表')
         os.makedirs(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm\\' + str(json_data[key]['user_id']) + '\\数组')
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm\\' + str(json_data[key]['user_id']) + '\\数组')
         os.makedirs(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm\\' + str(json_data[key]['user_id']) + '\\查找算法')
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm\\' + str(json_data[key]['user_id']) + '\\查找算法')
         os.makedirs(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm\\' + str(json_data[key]['user_id']) + '\\排序算法')
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm\\' + str(json_data[key]['user_id']) + '\\排序算法')
         os.makedirs(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm\\' + str(json_data[key]['user_id']) + '\\数字操作')
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm\\' + str(json_data[key]['user_id']) + '\\数字操作')
         os.makedirs(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm\\' + str(json_data[key]['user_id']) + '\\树结构')
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm\\' + str(json_data[key]['user_id']) + '\\树结构')
         os.makedirs(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm\\' + str(json_data[key]['user_id']) + '\\图结构')
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm\\' + str(json_data[key]['user_id']) + '\\图结构')
         for case in caseList:
             Fileinfo.append([])
             Fileinfo[i].append(str(json_data[key]['user_id']))
@@ -92,4 +92,4 @@ with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\possiBC\\source_
         # print(key+':'+str(json_data[key]))
 
 # os.makedirs('E:\\SampleTest\\可')
-download_and_extract(Fileinfo, 'D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm')
+download_and_extract(Fileinfo, 'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm')

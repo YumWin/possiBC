@@ -68,7 +68,7 @@ def get_userAbliltyTypeLevelJSONfile(dir):
             userIdTypeAbilityList.append(userProgramTypeInfo)
         userAbliltyInfo[userid]=userIdTypeAbilityList
     info_json = json.dumps(userAbliltyInfo, sort_keys=False, indent=4, separators=(',', ': '), ensure_ascii=False)
-    f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\second.json', 'w')
+    f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\second.json', 'w',encoding='utf8')
     f.write(info_json)
 
 

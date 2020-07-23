@@ -14,10 +14,13 @@
 #       下面就是生成对应文件的过程！！
 import json
 import os
-programTypeList=["字符串","图算法"]
+programTypeList=["字符串","图算法","线性表"]
 
 def getUserCSVfilesOfTypeLeval():
-    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\first.json','r',encoding='utf8')as f:
+    #todo 有编码上的问题。。。。记得注意以上GBK
+    # with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\first.json','r',encoding='utf8')as f:
+
+    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\dataProcess\\TopsisProcess.json','r',encoding='utf8')as f:
         usersMetaData = json.load(f)
         # 创建字典
         for userid in usersMetaData:

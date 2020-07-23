@@ -35,7 +35,7 @@ spend=repr(mytestendtime-myteststarttime)
 print('run spend times:'+spend)''')
 
 if __name__ == '__main__':
-    mainFilelist = getMainFileList('D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm')
+    mainFilelist = getMainFileList('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm')
     for file in mainFilelist:
         print(file)
         insertMonitorCodeBeg(file)
