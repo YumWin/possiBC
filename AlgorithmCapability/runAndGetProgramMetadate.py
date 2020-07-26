@@ -3,6 +3,7 @@ import time
 import os
 import json
 # from guppy import hpy
+from pathlib import Path
 import psutil
 
 # p0=time.perf_counter()
@@ -25,9 +26,12 @@ def getMainFileList(dir):
         for filename in files:
             # 将所有的testcases路径获取出来
             if (filename == 'main.py'):
-                Filelist.append(os.path.join(home, filename))
+                output_file = Path(home + "\\output.txt")
+                if (output_file.exists()):
+                    print(home + filename + "执行过了")
+                else:
+                    Filelist.append(os.path.join(home, filename))
     return Filelist
-
 
 def recordMainfileMetadata(file):
     pathlist=file.split('\\')
@@ -38,8 +42,9 @@ def recordMainfileMetadata(file):
     # print(inputPath)
 
     cmdstr=('python ')+file+(' < ')+inputPath +  (' > ')+outputPath
-    t1 = time.perf_counter()
-    # TODO 做一个监控超过一段时间自动停止
+    # TODO 做一个监控超过一段时间自动停止！！
+    #  难以做到
+    # 已经以绕过已经执行程序作为替代
     os.system(cmdstr)
     # try:
     #     process = psutil.Process(os.system(cmdstr))
@@ -51,7 +56,7 @@ def recordMainfileMetadata(file):
 
 
 if __name__ == '__main__':
-    mainFilelist = getMainFileList('D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm')
+    mainFilelist = getMainFileList('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm')
     for file in mainFilelist:
         print(file)
         recordMainfileMetadata(file)

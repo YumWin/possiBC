@@ -37,7 +37,7 @@ def makeInputFile(file):
 
 
 if __name__ == '__main__':
-    caseFilelist = getCaseFileList('D:\\chengxu\\SoftwareEngineering\\probabilityTheory\\Algorithm')
+    caseFilelist = getCaseFileList('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm')
     for case in caseFilelist:
         print(case)
         makeInputFile(case)

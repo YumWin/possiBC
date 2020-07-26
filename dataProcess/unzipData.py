@@ -68,7 +68,7 @@ def get_filelist(dir):
 
 
 if __name__ == '__main__':
-    Filelist = get_filelist('E:\\Sample')
+    Filelist = get_filelist('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\Algorithm')
 
     print(len(Filelist))
 

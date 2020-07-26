@@ -168,7 +168,7 @@ def algorthmJudge():
         info_json = json.dumps(info_dict,sort_keys=False, indent=4, separators=(',', ': '),ensure_ascii=False)
 
         print(type(info_json))
-        f = open('E:\\possiBC\\deepData\\TopsisProcess.json', 'w')
+        f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\dataProcess\\TopsisProcess.json', 'w',encoding='utf8')
         f.write(info_json)
 
 def writeInDict(user_id,case_id,name,Score):
