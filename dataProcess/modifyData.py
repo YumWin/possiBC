@@ -23,7 +23,7 @@ def getcount(filepath):
 
 # print(getcount('E:\\learning.py'))
 def getDebugJson():
-    with open('./source_file/sample.json','r',encoding='utf8')as fp:
+    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\AlgorithmCapability\\group3_data.json','r',encoding='utf8')as fp:
         json_data = json.load(fp)
         # 创建字典
         info_dict = {}
@@ -51,7 +51,7 @@ def getDebugJson():
         info_json = json.dumps(info_dict,sort_keys=False, indent=4, separators=(',', ': '),ensure_ascii=False)
         # 显示数据类型
         print(type(info_json))
-        f = open('E:\\possiBC\\preData\\debug.json', 'w')
+        f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\preData\\debug.json', 'w')
         f.write(info_json)
 
 def get_filelist(dir):
@@ -73,7 +73,7 @@ def get_filelist(dir):
     return Filelist
 
 def getFirstConstructionJson():
-    with open('./source_file/sample.json','r',encoding='utf8')as fp:
+    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\AlgorithmCapability\\group3_data.json','r',encoding='utf8')as fp:
         json_data = json.load(fp)
         # 创建字典
         info_dict = {}
@@ -98,7 +98,7 @@ def getFirstConstructionJson():
                     i-=1
                 fileName=fileName[::-1]
                 dirname = fileName.replace('.zip', '')
-                dir='E:\\Sample\\'+key+'\\'+case['case_type']+'\\'+case['case_id']+'\\'+dirname
+                dir='D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\simpleFirstCode\\'+key+'\\'+case['case_type']+'\\'+case['case_id']+'\\'+dirname
                 fileList=get_filelist(dir)
                 fileDir=''
                 for file in fileList:
@@ -112,7 +112,7 @@ def getFirstConstructionJson():
         info_json = json.dumps(info_dict,sort_keys=False, indent=4, separators=(',', ': '),ensure_ascii=False)
         # 显示数据类型
         print(type(info_json))
-        f = open('E:\\possiBC\\preData\\firstConstruction.json', 'w')
+        f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\preData\\firstConstruction.json', 'w')
         f.write(info_json)
 
 getDebugJson()

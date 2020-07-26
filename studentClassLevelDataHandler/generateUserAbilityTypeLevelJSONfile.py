@@ -7,7 +7,7 @@ import numpy as np
 # 遍历自定义的学生题目类别，加上userid得到了文件所在父级路径！！
 #得到所有的weight.josn  file：：另起一个函数
 
-programTypeList = ["字符串", "图算法"]
+programTypeList = ["查找算法","排序算法","树结构","数字操作","数组","图结构","线性表","字符串"]
 
 
 def get_allWeightFile(dir):
@@ -31,7 +31,7 @@ def get_targetScorelist(tableFilePath, weightTargetName):
 
 def get_usersMetaData():
     with open(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\first.json',
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\dataProcess\\TopsisProcess.json',
             'r', encoding='utf8')as f:
         usersMetaData = json.load(f)
         return usersMetaData
@@ -54,21 +54,27 @@ def get_userAbliltyTypeLevelJSONfile(dir):
 
             tableFileDir=dir+('\\')+userid+('\\')+programType
             weightFileList=get_allWeightFile(tableFileDir)
+            if(weightFileList==[]):
+                print(userid+"妈的不写"+programType)
+                userProgramTypeInfo["algorthmScore"] = 0
+                userProgramTypeInfo["debugScore"] = 0
+                userProgramTypeInfo["firstConsScore"] = 0
 
-            for weightFilePath in weightFileList:
-                weightFilePathlist=weightFilePath.split("\\")
-                weightTargetName=weightFilePathlist[len(weightFilePathlist)-1].replace("Weight.json","")
-                tableFilePath=tableFileDir+('\\')+"table.json"
-                targetScorelist=get_targetScorelist(tableFilePath,weightTargetName)
-                with open(weightFilePath, 'r', encoding='utf8')as f:
-                    weightList = json.load(f)
-                    multiplyresult = np.multiply(np.array(weightList), np.array(targetScorelist))
-                    sumScore=multiplyresult.sum()
-                    userProgramTypeInfo[weightTargetName]=sumScore
+            else:
+                for weightFilePath in weightFileList:
+                    weightFilePathlist=weightFilePath.split("\\")
+                    weightTargetName=weightFilePathlist[len(weightFilePathlist)-1].replace("Weight.json","")
+                    tableFilePath=tableFileDir+('\\')+"table.json"
+                    targetScorelist=get_targetScorelist(tableFilePath,weightTargetName)
+                    with open(weightFilePath, 'r', encoding='utf8')as f:
+                        weightList = json.load(f)
+                        multiplyresult = np.multiply(np.array(weightList), np.array(targetScorelist))
+                        sumScore=multiplyresult.sum()
+                        userProgramTypeInfo[weightTargetName]=sumScore
             userIdTypeAbilityList.append(userProgramTypeInfo)
         userAbliltyInfo[userid]=userIdTypeAbilityList
     info_json = json.dumps(userAbliltyInfo, sort_keys=False, indent=4, separators=(',', ': '), ensure_ascii=False)
-    f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\second.json', 'w',encoding='utf8')
+    f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\UserAbilityTypeLevel.json', 'w',encoding='utf8')
     f.write(info_json)
 
 

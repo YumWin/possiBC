@@ -266,7 +266,7 @@ def getScore(todoList,weightList):
     j=0
     while(j<len(pureScoreList)):
         if(sum(pureScoreList)!=0):
-            ScoreList.append(round(round(pureScoreList[j]/sum(pureScoreList),4)*100,2))
+            ScoreList.append(round(round(pureScoreList[j]/sum(pureScoreList),6)*10000,2))
         else:
             ScoreList.append(0)
         j+=1

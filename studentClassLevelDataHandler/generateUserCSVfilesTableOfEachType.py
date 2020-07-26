@@ -14,7 +14,7 @@
 #       下面就是生成对应文件的过程！！
 import json
 import os
-programTypeList=["字符串","图算法","线性表"]
+programTypeList=["查找算法","排序算法","树结构","数字操作","数组","图结构","线性表","字符串"]
 
 def getUserCSVfilesOfTypeLeval():
     #todo 有编码上的问题。。。。记得注意以上GBK

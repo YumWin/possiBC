@@ -47,7 +47,11 @@ def get_programIdList(path):
 
 def fillTypeLevelCSVfile(path, target):
     tableFilePathList = file.split('\\')
+    # print("path")
+    # print(path)
     programIdList=get_programIdList(path)
+    if(programIdList==[]):
+        return
     # print(programIdList)
     # 首先初始化结果集
     resultCSVdata={}
@@ -55,7 +59,7 @@ def fillTypeLevelCSVfile(path, target):
         resultCSVdata[needProgramId]=[]
     # print('result init')
     # print(resultCSVdata)
-    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\first.json','r',encoding='utf8')as f:
+    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\dataProcess\\TopsisProcess.json','r',encoding='utf8')as f:
         usersMetaData = json.load(f)
         for user in usersMetaData:
             for metaProgramCase in usersMetaData[user]:
@@ -63,19 +67,23 @@ def fillTypeLevelCSVfile(path, target):
                    if(needProgramId==metaProgramCase['case_id']):
                        resultCSVdata[needProgramId].append(metaProgramCase[target])
                        break
-        # print('result')
-        # print(resultCSVdata)
         rows=[]
         headers=[]
         for programid in resultCSVdata:
             headers.append(programid)
             rows.append(resultCSVdata[programid])
-        # print(table)
-        # print(rows)
+        minnum=100
+        for thisrow in rows:
+            rownum=len(thisrow)
+            if(rownum<minnum):
+                minnum=rownum
+        rows=[rows[i][0:minnum] for i in range(0,len(rows))]
+        # 下面因为元素不匹配，因为无法转成二维array
         rowsnp=np.array(rows)
-        rowsTrueData=rowsnp.T
+        rowsTrueData=rowsnp.T.tolist()
         resultCSVfileName=target+'.csv'
         CSVFilePath = ('\\').join( tableFilePathList[:len( tableFilePathList) - 1]) + ('\\')+resultCSVfileName
+        print(CSVFilePath)
         with open(CSVFilePath, "w", newline='') as f:
             f_csv = csv.writer(f)
             f_csv.writerow(headers)  # headers为表头属性名组成的数组
@@ -84,7 +92,7 @@ def fillTypeLevelCSVfile(path, target):
         # print(rowsTrueData)
 if __name__ == '__main__':
     tableFilelist = getTableFileList('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\userCSVFiles')
-    targetList=['topsisDebugScore','topsisFirstConscore','topsisAlgorthmScore']
+    targetList=['debugScore','firstConsScore','algorthmScore']
     for file in tableFilelist:
         for target in targetList:
             fillTypeLevelCSVfile(file,target)

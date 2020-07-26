@@ -70,6 +70,7 @@ def centropyWeightMethodCalculateWeight(metadata):
 # 需要整合...........................
 def generateWeightJSONfile(filepath,targetfile):
     filePathList = filepath.split('\\')
+    print(filepath)
     metadata = pd.read_csv(filepath, encoding='utf8')
     metadata.dropna()
     weights = centropyWeightMethodCalculateWeight(metadata)  # 调用cal_weight
@@ -86,7 +87,7 @@ def generateWeightJSONfile(filepath,targetfile):
 
 if __name__ == '__main__':
     dir="D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\userCSVFiles"
-    targetFileList = ['topsisDebugScore.csv', 'topsisFirstConscore.csv', 'topsisAlgorthmScore.csv']
+    targetFileList = ['debugScore.csv', 'firstConsScore.csv', 'algorthmScore.csv']
     # 一共有三种targetfile topsisDebugScore.csv  topsisFirstConscore.csv topsisAlgorthmScore.csv
     for targetfile in targetFileList:
         targetCSVFileList= get_TargetCSVFileList(dir,targetfile)
