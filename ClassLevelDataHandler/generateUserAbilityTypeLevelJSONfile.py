@@ -31,7 +31,7 @@ def get_targetScorelist(tableFilePath, weightTargetName):
 
 def get_usersMetaData():
     with open(
-            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\dataProcess\\TopsisProcess.json',
+            'D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\getAllCases\\TopsisProcess.json',
             'r', encoding='utf8')as f:
         usersMetaData = json.load(f)
         return usersMetaData
@@ -74,7 +74,7 @@ def get_userAbliltyTypeLevelJSONfile(dir):
             userIdTypeAbilityList.append(userProgramTypeInfo)
         userAbliltyInfo[userid]=userIdTypeAbilityList
     info_json = json.dumps(userAbliltyInfo, sort_keys=False, indent=4, separators=(',', ': '), ensure_ascii=False)
-    f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\UserAbilityTypeLevel.json', 'w',encoding='utf8')
+    f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\ClassLevelDataHandler\\UserAbilityTypeLevel.json', 'w',encoding='utf8')
     f.write(info_json)
 
 

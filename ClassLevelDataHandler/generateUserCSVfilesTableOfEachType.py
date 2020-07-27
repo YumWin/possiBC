@@ -18,9 +18,9 @@ programTypeList=["查找算法","排序算法","树结构","数字操作","数�
 
 def getUserCSVfilesOfTypeLeval():
     #todo 有编码上的问题。。。。记得注意以上GBK
-    # with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\studentClassLevelDataHandler\\first.json','r',encoding='utf8')as f:
+    # with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\ClassLevelDataHandler\\first.json','r',encoding='utf8')as f:
 
-    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\dataProcess\\TopsisProcess.json','r',encoding='utf8')as f:
+    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\getAllCases\\TopsisProcess.json','r',encoding='utf8')as f:
         usersMetaData = json.load(f)
         # 创建字典
         for userid in usersMetaData:
@@ -49,7 +49,7 @@ def getUserCSVfilesOfTypeLeval():
         # info_json = json.dumps(info_dict,sort_keys=False, indent=4, separators=(',', ': '),ensure_ascii=False)
         # 显示数据类型
         # print(type(info_json))
-        # f = open('E:\\possiBC\\preData\\debug.json', 'w')
+        # f = open('E:\\possiBC\\RawData\\debug.json', 'w')
         # f.write(info_json)
 if __name__ == '__main__':
     getUserCSVfilesOfTypeLeval()

@@ -85,7 +85,7 @@ def getmetadata(filePath):
 
 def createAlgorithmCapabilityJson():
     # TODO 这一行下面的路径要改！！
-    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\AlgorithmCapability\\group3_data.json','r',encoding='utf8')as f:
+    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\GetAlgorithmCapabilityRowDATA\\group3_data.json','r',encoding='utf8')as f:
         json_data = json.load(f)
         # 创建字典
         info_dict = {}
@@ -129,6 +129,6 @@ def createAlgorithmCapabilityJson():
         info_json = json.dumps(info_dict,sort_keys=False, indent=4, separators=(',', ': '),ensure_ascii=False)
         # 显示数据类型
         print(type(info_json))
-        f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\preData\\studentAlgorthmCapabilityData.json', 'w')
+        f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\RawData\\studentAlgorthmCapabilityData.json', 'w')
         f.write(info_json)
 createAlgorithmCapabilityJson()

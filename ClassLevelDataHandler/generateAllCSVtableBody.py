@@ -59,7 +59,7 @@ def fillTypeLevelCSVfile(path, target):
         resultCSVdata[needProgramId]=[]
     # print('result init')
     # print(resultCSVdata)
-    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\dataProcess\\TopsisProcess.json','r',encoding='utf8')as f:
+    with open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\getAllCases\\TopsisProcess.json','r',encoding='utf8')as f:
         usersMetaData = json.load(f)
         for user in usersMetaData:
             for metaProgramCase in usersMetaData[user]:

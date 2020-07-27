@@ -52,7 +52,7 @@ def centropyWeightMethodCalculateWeight(metadata):
 
 
 def dataPre():
-    with open('./preData/debug.json','r',encoding='gbk')as fp:
+    with open('./RawData/debug.json','r',encoding='gbk')as fp:
         json_data = json.load(fp)
         # info_dict = {}
         for key in json_data:
@@ -84,7 +84,7 @@ def findCase(dir,case_id):
 
 
 def debugJudge():
-    with open('./preData/debug.json','r',encoding='gbk')as fp:
+    with open('./RawData/debug.json','r',encoding='gbk')as fp:
         readyList=[]
         json_data = json.load(fp)
         for key in info_dict:
@@ -92,7 +92,7 @@ def debugJudge():
             for case in caseList:
                 if(case['case_id'] not in readyList):
                     readyList.append(case['case_id'])
-                    findList=findCase('./preData/debug.json',case['case_id'])
+                    findList=findCase('./RawData/debug.json',case['case_id'])
                     todoList=[]
                     for element in findList:
                         tempList=[]
@@ -113,7 +113,7 @@ def debugJudge():
         # f.write(info_json)
 
 def firstConsJudge():
-    with open('./preData/firstConstruction.json','r',encoding='gbk')as fp:
+    with open('./RawData/firstConstruction.json','r',encoding='gbk')as fp:
         readyList=[]
         json_data = json.load(fp)
         for key in info_dict:
@@ -121,7 +121,7 @@ def firstConsJudge():
             for case in caseList:
                 if(case['case_id'] not in readyList):
                     readyList.append(case['case_id'])
-                    findList=findCase('./preData/firstConstruction.json',case['case_id'])
+                    findList=findCase('./RawData/firstConstruction.json',case['case_id'])
                     todoList=[]
                     for element in findList:
                         tempList=[]
@@ -142,7 +142,7 @@ def firstConsJudge():
         # f.write(info_json)
 
 def algorthmJudge():
-    with open('./preData/studentAlgorthmCapabilityData.json','r',encoding='gbk')as fp:
+    with open('./RawData/studentAlgorthmCapabilityData.json','r',encoding='gbk')as fp:
         readyList=[]
         json_data = json.load(fp)
         for key in info_dict:
@@ -150,7 +150,7 @@ def algorthmJudge():
             for case in caseList:
                 if(case['case_id'] not in readyList):
                     readyList.append(case['case_id'])
-                    findList=findCase('./preData/studentAlgorthmCapabilityData.json',case['case_id'])
+                    findList=findCase('./RawData/studentAlgorthmCapabilityData.json',case['case_id'])
                     todoList=[]
                     for element in findList:
                         tempList=[]
@@ -168,7 +168,7 @@ def algorthmJudge():
         info_json = json.dumps(info_dict,sort_keys=False, indent=4, separators=(',', ': '),ensure_ascii=False)
 
         print(type(info_json))
-        f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\dataProcess\\TopsisProcess.json', 'w',encoding='utf8')
+        f = open('D:\\chengxu\\SoftwareEngineering\\probabilityTheory2\\possiBC\\getAllCases\\TopsisProcess.json', 'w',encoding='utf8')
         f.write(info_json)
 
 def writeInDict(user_id,case_id,name,Score):
