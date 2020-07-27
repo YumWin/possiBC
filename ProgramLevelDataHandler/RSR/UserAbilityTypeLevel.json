@@ -1,0 +1,2152 @@
+{
+    "49823": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 234.8785317352681,
+            "debugScore": 319.99504802754655,
+            "firstConsScore": 211.4628228646248
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 274.4375825834956,
+            "debugScore": 430.18565746895456,
+            "firstConsScore": 260.71252816399806
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 253.0781729934846,
+            "debugScore": 278.0895107579895,
+            "firstConsScore": 167.4751304818027
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 275.9241742209988,
+            "debugScore": 306.6459105668957,
+            "firstConsScore": 234.05743064924715
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 250.177204156439,
+            "debugScore": 193.0810938975884,
+            "firstConsScore": 157.7242012487926
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 239.71326425818452,
+            "debugScore": 275.46388971831186,
+            "firstConsScore": 235.96362690214892
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 251.74271582577097,
+            "debugScore": 278.39941102547346,
+            "firstConsScore": 181.1483751175285
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 213.70544631243826,
+            "debugScore": 323.2956824038571,
+            "firstConsScore": 182.98785226908083
+        }
+    ],
+    "60580": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 251.79496749999944,
+            "debugScore": 107.24627636873655,
+            "firstConsScore": 178.4047178379402
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 256.9822236815443,
+            "debugScore": 83.39922774107929,
+            "firstConsScore": 207.86903953326527
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 302.29216352467245,
+            "debugScore": 155.86928481633032,
+            "firstConsScore": 193.0086112850572
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 221.03173603721885,
+            "debugScore": 91.42815181660883,
+            "firstConsScore": 237.84101915375814
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 194.22392265628017,
+            "debugScore": 133.79722703993878,
+            "firstConsScore": 218.17611216437763
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 324.2589973452143,
+            "debugScore": 135.20758429827876,
+            "firstConsScore": 226.81933708390434
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 243.6375651833353,
+            "debugScore": 228.23396438170775,
+            "firstConsScore": 149.29687906120006
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 244.91997125394883,
+            "debugScore": 262.2129282626819,
+            "firstConsScore": 180.14742084190607
+        }
+    ],
+    "60591": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 250.9861426363844,
+            "debugScore": 94.7320313668699,
+            "firstConsScore": 379.3916390488008
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 216.68433259431907,
+            "debugScore": 83.01917116237587,
+            "firstConsScore": 310.7488785327093
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 296.70903873917575,
+            "debugScore": 122.72528601505414,
+            "firstConsScore": 584.3415075179663
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 229.83893299404224,
+            "debugScore": 91.97394159877129,
+            "firstConsScore": 374.7346420257733
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 261.5206254671044,
+            "debugScore": 108.90554094895293,
+            "firstConsScore": 348.9059954994532
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 333.170464052616,
+            "debugScore": 120.39718433302335,
+            "firstConsScore": 741.8371167629194
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 256.2341035428004,
+            "debugScore": 99.03432038769955,
+            "firstConsScore": 353.5947000540599
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 267.52101409004655,
+            "debugScore": 107.99417995365863,
+            "firstConsScore": 457.62020763514084
+        }
+    ],
+    "60592": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 253.84071003428102,
+            "debugScore": 184.95294999749407,
+            "firstConsScore": 312.41151722665455
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 261.8713363226407,
+            "debugScore": 218.64203125155905,
+            "firstConsScore": 248.85069534061782
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 312.21762169256925,
+            "debugScore": 250.27436943223964,
+            "firstConsScore": 346.88219844028754
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 243.35898039088272,
+            "debugScore": 192.07207794389532,
+            "firstConsScore": 291.30499216060707
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 258.31624443711627,
+            "debugScore": 320.50850502748744,
+            "firstConsScore": 297.61236576593296
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 368.2195674372964,
+            "debugScore": 341.98488633438785,
+            "firstConsScore": 268.3332598554089
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 270.7566427429029,
+            "debugScore": 144.85987517807985,
+            "firstConsScore": 330.87128401761424
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 293.2932530039279,
+            "debugScore": 225.334581982549,
+            "firstConsScore": 318.56841125334427
+        }
+    ],
+    "60601": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 226.8740979109374,
+            "debugScore": 112.00857683776582,
+            "firstConsScore": 393.1669051271424
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 251.17337929566298,
+            "debugScore": 84.59762466049565,
+            "firstConsScore": 339.28782256342595
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 265.9221390706154,
+            "debugScore": 120.83466982308524,
+            "firstConsScore": 574.5409704972235
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 266.4106493228497,
+            "debugScore": 91.29399999647201,
+            "firstConsScore": 372.4925522807379
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 265.88084224566666,
+            "debugScore": 90.31232423264534,
+            "firstConsScore": 327.4706883913043
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 295.5121633684264,
+            "debugScore": 130.97002012628352,
+            "firstConsScore": 654.7219528728098
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 263.4129330106385,
+            "debugScore": 88.23683780147024,
+            "firstConsScore": 312.4523909522255
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 267.4828086881329,
+            "debugScore": 130.86690369347724,
+            "firstConsScore": 467.01882535205453
+        }
+    ],
+    "60605": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 243.19807499349963,
+            "debugScore": 284.11625834505656,
+            "firstConsScore": 351.45284017792034
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 239.97123307910107,
+            "debugScore": 191.95953324178313,
+            "firstConsScore": 292.55951600812887
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 295.65926907581144,
+            "debugScore": 276.02195664259335,
+            "firstConsScore": 369.416226238527
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 270.1299179186928,
+            "debugScore": 250.7854493259776,
+            "firstConsScore": 304.13669803258824
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 250.39038484450384,
+            "debugScore": 320.42038423829723,
+            "firstConsScore": 305.3704089619455
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 306.74799524514657,
+            "debugScore": 705.2839185295218,
+            "firstConsScore": 201.4023992220871
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 234.72846178309933,
+            "debugScore": 115.99780671686777,
+            "firstConsScore": 353.5564707907058
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 276.0221587169788,
+            "debugScore": 370.48163876633504,
+            "firstConsScore": 306.7343302819593
+        }
+    ],
+    "60610": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 256.78131328848133,
+            "debugScore": 172.66597095666626,
+            "firstConsScore": 274.8060584722601
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 263.5813595527859,
+            "debugScore": 81.09445740042165,
+            "firstConsScore": 292.0196537013097
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 300.23431484064224,
+            "debugScore": 219.8016024824064,
+            "firstConsScore": 383.5268005270082
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 269.197897900088,
+            "debugScore": 93.9572082163336,
+            "firstConsScore": 231.46297403923379
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 259.03599563360984,
+            "debugScore": 155.47330049070013,
+            "firstConsScore": 289.9443202171615
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 314.52541079143083,
+            "debugScore": 394.4850412173118,
+            "firstConsScore": 181.76311528074712
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 297.4947446949474,
+            "debugScore": 141.48533830372054,
+            "firstConsScore": 312.76080047883755
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 303.0451660289737,
+            "debugScore": 178.51823766838467,
+            "firstConsScore": 263.07963884913397
+        }
+    ],
+    "60614": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 264.48585290052097,
+            "debugScore": 190.1567200639498,
+            "firstConsScore": 263.8836146235149
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 277.70970418685863,
+            "debugScore": 99.22922371685777,
+            "firstConsScore": 314.2305035692418
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 303.75464845819226,
+            "debugScore": 237.65971389209994,
+            "firstConsScore": 376.2283130459731
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 271.35768103395674,
+            "debugScore": 210.00893848557553,
+            "firstConsScore": 249.06180966672028
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 304.78671492471534,
+            "debugScore": 241.37839176975217,
+            "firstConsScore": 233.2340933053966
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 277.50923826548654,
+            "debugScore": 396.06366114401675,
+            "firstConsScore": 436.33948655454117
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 289.4043858631884,
+            "debugScore": 284.61582666423476,
+            "firstConsScore": 221.4371668343795
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 276.9362926758064,
+            "debugScore": 162.26950329182682,
+            "firstConsScore": 337.7324848986205
+        }
+    ],
+    "60618": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 334.3526539590492,
+            "debugScore": 727.5655416714883,
+            "firstConsScore": 209.47346174011406
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 251.73309655524108,
+            "debugScore": 590.5664255939973,
+            "firstConsScore": 203.47063557209614
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 256.4698694035082,
+            "debugScore": 412.95113102918316,
+            "firstConsScore": 235.5098350132017
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 259.6706947907103,
+            "debugScore": 760.7229734284116,
+            "firstConsScore": 181.6028846759119
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 264.0661173508756,
+            "debugScore": 731.2501216071075,
+            "firstConsScore": 242.83396633091277
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 311.4758135532327,
+            "debugScore": 445.87691500371653,
+            "firstConsScore": 283.8082609943903
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 279.7641554123517,
+            "debugScore": 615.0177582788324,
+            "firstConsScore": 253.20516624893907
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 274.4863195711143,
+            "debugScore": 473.62516246664387,
+            "firstConsScore": 177.95322828530416
+        }
+    ],
+    "60622": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 266.27630811580855,
+            "debugScore": 355.84227197332984,
+            "firstConsScore": 147.41202027598482
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 290.26453814875754,
+            "debugScore": 556.812646976579,
+            "firstConsScore": 183.2866790843887
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 320.1587238613109,
+            "debugScore": 554.9185885344095,
+            "firstConsScore": 152.29314761755512
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 240.5447186448685,
+            "debugScore": 330.01618136083675,
+            "firstConsScore": 173.84424160763956
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 275.2084733268992,
+            "debugScore": 346.53358994717024,
+            "firstConsScore": 200.59401808161314
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 326.43934111698303,
+            "debugScore": 391.9555399778397,
+            "firstConsScore": 168.18242632778447
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 250.23065631005446,
+            "debugScore": 230.30841454293355,
+            "firstConsScore": 287.4019899576684
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 283.08630129908795,
+            "debugScore": 276.32897196167823,
+            "firstConsScore": 144.8866142833574
+        }
+    ],
+    "60623": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 248.15758273947452,
+            "debugScore": 694.6205890414124,
+            "firstConsScore": 172.03921041484705
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 278.84393990505146,
+            "debugScore": 377.62921243107394,
+            "firstConsScore": 186.31350663912963
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 319.27970431435193,
+            "debugScore": 907.2341679740226,
+            "firstConsScore": 114.57570742176793
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 274.48452910144056,
+            "debugScore": 368.3652263541006,
+            "firstConsScore": 173.06231311145524
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 197.2924750206768,
+            "debugScore": 235.68830547228404,
+            "firstConsScore": 227.17937317610827
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 315.52925348057227,
+            "debugScore": 761.2860797046014,
+            "firstConsScore": 136.9992624982732
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 231.03476578832525,
+            "debugScore": 553.7431180661528,
+            "firstConsScore": 237.58053872625143
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 259.82562668572774,
+            "debugScore": 486.60947390738943,
+            "firstConsScore": 205.86249643571077
+        }
+    ],
+    "60625": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 203.23293791581983,
+            "debugScore": 96.11014485940879,
+            "firstConsScore": 270.4234834810058
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 220.96952942259892,
+            "debugScore": 84.59762466049565,
+            "firstConsScore": 290.2617904713666
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 186.9514272916613,
+            "debugScore": 184.66115099815462,
+            "firstConsScore": 229.63438817693995
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 239.68527216958864,
+            "debugScore": 91.29399999647201,
+            "firstConsScore": 272.0881394540462
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 235.09283977067147,
+            "debugScore": 97.67605968555827,
+            "firstConsScore": 233.01373470381947
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 259.3031543921917,
+            "debugScore": 369.09205925156186,
+            "firstConsScore": 286.7775126632891
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 255.5411421290704,
+            "debugScore": 93.27575422505896,
+            "firstConsScore": 344.7082941149363
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 237.0892586370898,
+            "debugScore": 96.84160945259927,
+            "firstConsScore": 302.8253875653937
+        }
+    ],
+    "60644": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 297.7481587889532,
+            "debugScore": 143.69962153550966,
+            "firstConsScore": 277.37374620308003
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 227.72523086257004,
+            "debugScore": 94.27942375827142,
+            "firstConsScore": 318.65246268749195
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 256.9113240764169,
+            "debugScore": 135.92896706105634,
+            "firstConsScore": 278.2092264465211
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 249.79300840408732,
+            "debugScore": 179.8270054154961,
+            "firstConsScore": 306.66618341931775
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 239.3659003127032,
+            "debugScore": 152.06817979023378,
+            "firstConsScore": 273.448722404303
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 308.1034667609484,
+            "debugScore": 178.24571515892774,
+            "firstConsScore": 324.6826512692461
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 240.3576904659185,
+            "debugScore": 131.70913819720528,
+            "firstConsScore": 262.85837783452274
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 266.6304815738768,
+            "debugScore": 142.45791499361184,
+            "firstConsScore": 384.1293048336674
+        }
+    ],
+    "60648": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 202.29956145133278,
+            "debugScore": 382.80352135812893,
+            "firstConsScore": 329.9752781026558
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 225.06199097185183,
+            "debugScore": 378.4249766977839,
+            "firstConsScore": 254.8624082177219
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 286.50034634575564,
+            "debugScore": 524.166131508699,
+            "firstConsScore": 158.18198266327585
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 183.46882874410443,
+            "debugScore": 368.3230889307143,
+            "firstConsScore": 194.565202607645
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 243.2111824680496,
+            "debugScore": 554.3970015704972,
+            "firstConsScore": 206.81872319161403
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 261.2772280119831,
+            "debugScore": 485.8889623711763,
+            "firstConsScore": 417.8479803412396
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 249.05668864233692,
+            "debugScore": 499.36326045341735,
+            "firstConsScore": 180.98462624522918
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 263.51332361668364,
+            "debugScore": 278.49769711759694,
+            "firstConsScore": 192.06380956269948
+        }
+    ],
+    "60649": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 233.31041368215799,
+            "debugScore": 112.00367275389593,
+            "firstConsScore": 342.45935657268194
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 284.76220691943223,
+            "debugScore": 82.82397265901375,
+            "firstConsScore": 330.016762379994
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 256.29381443174003,
+            "debugScore": 125.27111173733225,
+            "firstConsScore": 359.27184370390944
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 269.51637041981905,
+            "debugScore": 107.4764284866434,
+            "firstConsScore": 329.9360615886334
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 273.47612302647207,
+            "debugScore": 105.3686972330689,
+            "firstConsScore": 340.260424053361
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 300.28265414161774,
+            "debugScore": 135.38074259854952,
+            "firstConsScore": 467.8499939533302
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 280.6998942114523,
+            "debugScore": 100.12652908995207,
+            "firstConsScore": 342.72949851833056
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 296.4247683245059,
+            "debugScore": 98.14259210224934,
+            "firstConsScore": 366.6527863402264
+        }
+    ],
+    "60667": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 273.39985765651585,
+            "debugScore": 95.73660607447033,
+            "firstConsScore": 411.7710110602257
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 292.10307333839506,
+            "debugScore": 83.94358527713177,
+            "firstConsScore": 339.8730048564261
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 292.6711436460158,
+            "debugScore": 107.45193614960924,
+            "firstConsScore": 230.34642245118832
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 280.61247698105484,
+            "debugScore": 91.29399999647202,
+            "firstConsScore": 354.48063922528684
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 276.15359483493415,
+            "debugScore": 142.53259238590257,
+            "firstConsScore": 273.5547147338492
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 301.0146561225837,
+            "debugScore": 131.15656807461647,
+            "firstConsScore": 282.4241529547909
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 284.8213569476664,
+            "debugScore": 88.23683780147024,
+            "firstConsScore": 239.65542568845942
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 305.29451002630464,
+            "debugScore": 98.14259210224934,
+            "firstConsScore": 306.21292895906566
+        }
+    ],
+    "60670": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 246.77023743054724,
+            "debugScore": 441.6700346561296,
+            "firstConsScore": 197.4615831981666
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 245.9541747606737,
+            "debugScore": 796.1406696582625,
+            "firstConsScore": 175.8851299112868
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 262.435815243929,
+            "debugScore": 685.6435143554894,
+            "firstConsScore": 214.48482773869503
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 251.1233046948775,
+            "debugScore": 582.6486152449404,
+            "firstConsScore": 169.8410346431633
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 281.0172209317203,
+            "debugScore": 605.8222577278224,
+            "firstConsScore": 234.995277329357
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 289.10802506846244,
+            "debugScore": 448.2647193513205,
+            "firstConsScore": 219.52349504012795
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 262.7198578725037,
+            "debugScore": 273.86466418421634,
+            "firstConsScore": 299.9251283734229
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 262.94811706124324,
+            "debugScore": 664.3937281054937,
+            "firstConsScore": 142.54267881721506
+        }
+    ],
+    "60673": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 269.0863370211298,
+            "debugScore": 192.1069846864635,
+            "firstConsScore": 187.38745414829606
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 273.82978740043563,
+            "debugScore": 84.59762466049565,
+            "firstConsScore": 210.35919270778217
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 308.8285763502538,
+            "debugScore": 143.9413542830621,
+            "firstConsScore": 185.0914096873684
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 267.293287050188,
+            "debugScore": 175.58980180183417,
+            "firstConsScore": 213.20730152776835
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 218.55179160446852,
+            "debugScore": 324.1093546429557,
+            "firstConsScore": 201.39163237983792
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 316.23874179450206,
+            "debugScore": 159.16596528440272,
+            "firstConsScore": 177.0681363688739
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 241.2837052623515,
+            "debugScore": 86.8830331231488,
+            "firstConsScore": 190.8625381437138
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 261.30479194826154,
+            "debugScore": 151.40527006201998,
+            "firstConsScore": 241.65440757977652
+        }
+    ],
+    "60678": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 330.08066757686566,
+            "debugScore": 248.82719349948195,
+            "firstConsScore": 211.11214882419074
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 231.62805073903215,
+            "debugScore": 270.7244093088493,
+            "firstConsScore": 229.79425802147753
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 315.8646613362335,
+            "debugScore": 238.97485821394474,
+            "firstConsScore": 242.0911459630675
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 293.8386605790988,
+            "debugScore": 245.5746243512511,
+            "firstConsScore": 236.6687625210059
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 231.7500412711806,
+            "debugScore": 194.35851358946675,
+            "firstConsScore": 246.81879771361739
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 326.6977260867705,
+            "debugScore": 522.7437013893795,
+            "firstConsScore": 249.31371965410088
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 244.92167913037272,
+            "debugScore": 375.58407961923615,
+            "firstConsScore": 275.73890666341555
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 259.8656263222084,
+            "debugScore": 237.48246787721706,
+            "firstConsScore": 207.3522506356664
+        }
+    ],
+    "60691": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 256.10890393280806,
+            "debugScore": 202.4655453828265,
+            "firstConsScore": 164.0326818208955
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 219.84440118667104,
+            "debugScore": 336.7945657054868,
+            "firstConsScore": 195.13365118399562
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 271.52521803588905,
+            "debugScore": 327.8836834518564,
+            "firstConsScore": 155.92537785216481
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 215.1749657801561,
+            "debugScore": 267.2423216820782,
+            "firstConsScore": 239.1194486665076
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 222.64274737477834,
+            "debugScore": 220.13160273459175,
+            "firstConsScore": 174.8429018117725
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 314.60251094434295,
+            "debugScore": 164.72441903393295,
+            "firstConsScore": 210.84797170766285
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 238.84407367163175,
+            "debugScore": 158.73471055775235,
+            "firstConsScore": 203.9928010603574
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 267.21662520604986,
+            "debugScore": 439.8781574847142,
+            "firstConsScore": 169.90438611204408
+        }
+    ],
+    "60697": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 237.7037790042565,
+            "debugScore": 95.35789521404811,
+            "firstConsScore": 327.8663084357308
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 226.5169457601673,
+            "debugScore": 162.6075579169506,
+            "firstConsScore": 290.7579708019394
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 258.49475313283835,
+            "debugScore": 107.7588561654991,
+            "firstConsScore": 421.59808669242966
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 278.27071902190136,
+            "debugScore": 105.37730735744684,
+            "firstConsScore": 300.41026823911164
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 262.1518334254606,
+            "debugScore": 90.36416058793971,
+            "firstConsScore": 358.6999689421555
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 295.9426495270887,
+            "debugScore": 131.24425941941777,
+            "firstConsScore": 396.89111826536896
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 241.9267401819456,
+            "debugScore": 88.01001264500972,
+            "firstConsScore": 331.99175994561324
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 245.1422076038437,
+            "debugScore": 113.00756554867628,
+            "firstConsScore": 333.63088220320174
+        }
+    ],
+    "60699": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 227.93827498535546,
+            "debugScore": 330.37379461195565,
+            "firstConsScore": 361.36665192907117
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 231.17677728439938,
+            "debugScore": 123.12991948231148,
+            "firstConsScore": 308.1039069350454
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 287.0872818986954,
+            "debugScore": 226.99256883096612,
+            "firstConsScore": 362.24054936894214
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 273.9251100403638,
+            "debugScore": 190.53402686535586,
+            "firstConsScore": 322.6886421286696
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 264.5573821999427,
+            "debugScore": 124.89921761729356,
+            "firstConsScore": 306.9760728547868
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 333.85424392871954,
+            "debugScore": 253.95568429517843,
+            "firstConsScore": 390.3658673495891
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 264.5276040126934,
+            "debugScore": 96.96375811688584,
+            "firstConsScore": 350.14250754564614
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 264.9899909448861,
+            "debugScore": 180.64933548939953,
+            "firstConsScore": 311.10293163019924
+        }
+    ],
+    "60712": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 306.0337684464466,
+            "debugScore": 903.6249652093715,
+            "firstConsScore": 129.29456085969312
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 291.40704501854344,
+            "debugScore": 733.4718501307708,
+            "firstConsScore": 163.97413903090782
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 302.39850373070755,
+            "debugScore": 503.6508001805364,
+            "firstConsScore": 270.2152323725029
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 263.6143304512144,
+            "debugScore": 576.1547244103208,
+            "firstConsScore": 276.6070582728387
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 344.9104894631088,
+            "debugScore": 702.8568963836177,
+            "firstConsScore": 118.61232704436449
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 279.1059262789415,
+            "debugScore": 1018.4718074997221,
+            "firstConsScore": 134.9038069239587
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 293.3099555463728,
+            "debugScore": 566.680506627048,
+            "firstConsScore": 212.4878397467232
+        }
+    ],
+    "60721": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 330.56202321008914,
+            "debugScore": 134.18615646870407,
+            "firstConsScore": 224.7768248615653
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 206.50718139794992,
+            "debugScore": 492.03743706225197,
+            "firstConsScore": 255.49137127062903
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 342.85945134032266,
+            "debugScore": 113.72422309141093,
+            "firstConsScore": 247.36239627816565
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 302.90069746355834,
+            "debugScore": 94.78759405539535,
+            "firstConsScore": 293.25067253573394
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 271.42080511194644,
+            "debugScore": 184.21465048092833,
+            "firstConsScore": 255.8763732136984
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 342.6274934747561,
+            "debugScore": 210.89071997902798,
+            "firstConsScore": 248.2072647562307
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 265.38816963680824,
+            "debugScore": 132.10172425424238,
+            "firstConsScore": 202.85011147716432
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 307.62525365381003,
+            "debugScore": 137.00335448759915,
+            "firstConsScore": 325.08263217549325
+        }
+    ],
+    "60723": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 243.66112857994352,
+            "debugScore": 308.10548145806905,
+            "firstConsScore": 348.17011021435235
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 265.6080988905784,
+            "debugScore": 84.1745511065744,
+            "firstConsScore": 308.73863399089305
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 297.6668840933353,
+            "debugScore": 191.2541899716439,
+            "firstConsScore": 564.9520194076983
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 260.24660214216385,
+            "debugScore": 139.11355718655037,
+            "firstConsScore": 206.76685139178514
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 269.87773415806157,
+            "debugScore": 95.67554981955605,
+            "firstConsScore": 286.11757415764026
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 333.04824513223184,
+            "debugScore": 146.0066543900512,
+            "firstConsScore": 427.18045270788105
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 278.6359104541818,
+            "debugScore": 99.43787651155382,
+            "firstConsScore": 302.49801457679473
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 274.8891116233236,
+            "debugScore": 131.7538675913138,
+            "firstConsScore": 380.55911429436713
+        }
+    ],
+    "60731": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 347.80124928073474,
+            "debugScore": 96.11014485940879,
+            "firstConsScore": 196.55177535462943
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 244.29287302238797,
+            "debugScore": 84.59762466049565,
+            "firstConsScore": 216.4308725609779
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 320.1337649194602,
+            "debugScore": 188.97063642633864,
+            "firstConsScore": 188.4661442683497
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 320.2445521487987,
+            "debugScore": 115.39140651656601,
+            "firstConsScore": 217.4013078810533
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 280.82415571719054,
+            "debugScore": 155.34304841491476,
+            "firstConsScore": 215.4265492496787
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 326.11683397446797,
+            "debugScore": 129.04819688102674,
+            "firstConsScore": 215.87760602860985
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 233.7560512360139,
+            "debugScore": 93.25250919132291,
+            "firstConsScore": 181.18251896565113
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 301.8500688447125,
+            "debugScore": 115.89357700408085,
+            "firstConsScore": 253.21416312467255
+        }
+    ],
+    "60747": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 222.04646152890749,
+            "debugScore": 287.4161181325686,
+            "firstConsScore": 351.5484664058719
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 237.1847362129096,
+            "debugScore": 84.59762466049565,
+            "firstConsScore": 339.8866281623574
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 325.74547341971777,
+            "debugScore": 260.7594965374943,
+            "firstConsScore": 420.1311092799932
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 263.7053096523493,
+            "debugScore": 249.2574501212315,
+            "firstConsScore": 328.26300961565624
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 249.96414163789677,
+            "debugScore": 181.04782988876798,
+            "firstConsScore": 266.52638767303483
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 337.2671548260925,
+            "debugScore": 197.4076648366933,
+            "firstConsScore": 399.58601463207896
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 225.63882002172568,
+            "debugScore": 262.6014164615788,
+            "firstConsScore": 318.2982911286026
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 248.65984979639256,
+            "debugScore": 164.715140407122,
+            "firstConsScore": 299.8708341422734
+        }
+    ],
+    "60765": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 168.78189131523587,
+            "debugScore": 487.6290205672803,
+            "firstConsScore": 150.23108961491323
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 226.02994198109116,
+            "debugScore": 303.58117499770907,
+            "firstConsScore": 195.70626450241213
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 265.47495697705784,
+            "debugScore": 435.52475421090486,
+            "firstConsScore": 164.2548247105517
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 204.66710208677597,
+            "debugScore": 436.93227423918927,
+            "firstConsScore": 171.60709174147084
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 282.83090001178016,
+            "debugScore": 256.6745005028875,
+            "firstConsScore": 239.5117637486026
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 280.2529857156934,
+            "debugScore": 716.3499925975585,
+            "firstConsScore": 131.1084924629643
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 248.79360651655136,
+            "debugScore": 357.331740590801,
+            "firstConsScore": 230.6328770769103
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 219.7859713153483,
+            "debugScore": 403.93727511512833,
+            "firstConsScore": 172.68486504767137
+        }
+    ],
+    "60778": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 211.86846763126294,
+            "debugScore": 1018.5827714740391,
+            "firstConsScore": 214.65139570001386
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 240.526919002542,
+            "debugScore": 536.5316369130456,
+            "firstConsScore": 201.68233059216192
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 230.6,
+            "debugScore": 94.56,
+            "firstConsScore": 243.31
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 246.7699894244141,
+            "debugScore": 440.0839393516973,
+            "firstConsScore": 165.94868897035144
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 295.3024783789493,
+            "debugScore": 95.5640094735582,
+            "firstConsScore": 231.67525659003263
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 257.38260261064084,
+            "debugScore": 85.99283982116678,
+            "firstConsScore": 210.55033984808665
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 247.36480581618378,
+            "debugScore": 131.99744322082086,
+            "firstConsScore": 213.19321663084628
+        }
+    ],
+    "60781": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 316.36226816780714,
+            "debugScore": 107.3447612408254,
+            "firstConsScore": 293.97366451000306
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 270.61146728926485,
+            "debugScore": 84.59762466049565,
+            "firstConsScore": 258.6873573038292
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 243.9093502195539,
+            "debugScore": 136.79837539359167,
+            "firstConsScore": 350.9865114439282
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 209.75159427453292,
+            "debugScore": 169.23724989830734,
+            "firstConsScore": 325.31010905308636
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 203.68369426261248,
+            "debugScore": 201.94782725522174,
+            "firstConsScore": 265.1431015140455
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 291.8444050757524,
+            "debugScore": 168.81385412791383,
+            "firstConsScore": 678.7426809544879
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 188.6106888086809,
+            "debugScore": 105.99532056847198,
+            "firstConsScore": 225.58736694263732
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 268.1845196032905,
+            "debugScore": 139.88300647537545,
+            "firstConsScore": 372.86073022889195
+        }
+    ],
+    "60791": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 254.36798181015612,
+            "debugScore": 142.90714052114484,
+            "firstConsScore": 247.22724511411874
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 245.25034683513613,
+            "debugScore": 235.48735146064672,
+            "firstConsScore": 224.8179316888049
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 272.22320390388654,
+            "debugScore": 234.14074747060752,
+            "firstConsScore": 258.3969097127906
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 235.07594262870347,
+            "debugScore": 327.0266017118932,
+            "firstConsScore": 292.9325569460216
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 216.07863177957657,
+            "debugScore": 138.35327802960813,
+            "firstConsScore": 315.21758340783686
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 276.1789025404856,
+            "debugScore": 125.44187175376629,
+            "firstConsScore": 219.16608060353184
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 251.42121262455896,
+            "debugScore": 485.5189691642239,
+            "firstConsScore": 258.7272580789776
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 239.80769824703563,
+            "debugScore": 229.6226088130864,
+            "firstConsScore": 269.0959716044227
+        }
+    ],
+    "60793": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 261.5626960398355,
+            "debugScore": 455.1585172637685,
+            "firstConsScore": 206.67369486344657
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 257.3765991502325,
+            "debugScore": 819.659757061993,
+            "firstConsScore": 213.26445134849436
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 288.28503675166473,
+            "debugScore": 697.0899751794241,
+            "firstConsScore": 317.74870130839923
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 249.32594880993184,
+            "debugScore": 544.6546220899941,
+            "firstConsScore": 268.4065137627818
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 273.2732595737012,
+            "debugScore": 679.3860632033413,
+            "firstConsScore": 249.34829322385247
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 323.8605558220873,
+            "debugScore": 279.77756517046106,
+            "firstConsScore": 267.59917837707593
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 279.8719498315208,
+            "debugScore": 815.9251051769521,
+            "firstConsScore": 262.5832887245373
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 287.48477941811575,
+            "debugScore": 627.1952659089202,
+            "firstConsScore": 263.60898554987585
+        }
+    ],
+    "60794": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 206.03935041616973,
+            "debugScore": 87.22730221906437,
+            "firstConsScore": 315.54415813045233
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 203.18118526038268,
+            "debugScore": 82.17553568671647,
+            "firstConsScore": 261.8574827588926
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 279.1698318239869,
+            "debugScore": 101.99097300035041,
+            "firstConsScore": 184.651649761305
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 220.97786802420345,
+            "debugScore": 123.0299452759784,
+            "firstConsScore": 240.82723868328236
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 234.78567522464155,
+            "debugScore": 91.99950449489383,
+            "firstConsScore": 182.44901997592558
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 298.35128905808784,
+            "debugScore": 537.1243833790656,
+            "firstConsScore": 344.30959202532074
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 236.52812067502248,
+            "debugScore": 86.72956414364793,
+            "firstConsScore": 197.12436241081838
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 249.52960577802787,
+            "debugScore": 84.91624298848761,
+            "firstConsScore": 179.54915563844096
+        }
+    ],
+    "60796": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 211.21061704466462,
+            "debugScore": 357.1557964505211,
+            "firstConsScore": 298.0779513776896
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 207.85606563768113,
+            "debugScore": 179.58310348357924,
+            "firstConsScore": 274.063647159698
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 248.7659141438518,
+            "debugScore": 507.4081434924519,
+            "firstConsScore": 382.5507726845496
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 193.40067926323323,
+            "debugScore": 230.72574133429302,
+            "firstConsScore": 264.4910175372682
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 222.4474991864044,
+            "debugScore": 364.3046334454048,
+            "firstConsScore": 248.24718817234645
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 277.7712092698026,
+            "debugScore": 524.5385807110057,
+            "firstConsScore": 373.0915625290886
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 202.8989693445553,
+            "debugScore": 485.9592246079169,
+            "firstConsScore": 262.3600491880156
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 234.63158927369085,
+            "debugScore": 578.1163983484289,
+            "firstConsScore": 214.14654621382888
+        }
+    ],
+    "60797": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 311.36906896258137,
+            "debugScore": 210.4914117474503,
+            "firstConsScore": 216.17381121326267
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 216.57086892664475,
+            "debugScore": 443.530356360648,
+            "firstConsScore": 132.71063711486553
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 257.4753532434592,
+            "debugScore": 689.5752200421341,
+            "firstConsScore": 132.44937124627876
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 192.86138183033358,
+            "debugScore": 597.3693792058069,
+            "firstConsScore": 127.57629272004246
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 202.52141504308798,
+            "debugScore": 695.5572611540042,
+            "firstConsScore": 140.47558016325695
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 330.25609037281026,
+            "debugScore": 721.3969001748816,
+            "firstConsScore": 134.07526411399374
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 263.8373117911446,
+            "debugScore": 581.5175965848972,
+            "firstConsScore": 121.70742445235857
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 242.15456927185295,
+            "debugScore": 554.969303739912,
+            "firstConsScore": 116.96507046102245
+        }
+    ],
+    "60810": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 262.5757989735723,
+            "debugScore": 171.35064577025565,
+            "firstConsScore": 216.08184290872023
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 257.1865919421699,
+            "debugScore": 84.59762466049565,
+            "firstConsScore": 253.79773181262976
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 293.7583822401473,
+            "debugScore": 136.41543514832992,
+            "firstConsScore": 154.51560517724317
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 219.20787639047964,
+            "debugScore": 156.0111985046061,
+            "firstConsScore": 216.53935913999385
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 223.93453803661424,
+            "debugScore": 90.39791141972641,
+            "firstConsScore": 213.48365511013782
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 325.99219592776353,
+            "debugScore": 157.31960717385823,
+            "firstConsScore": 164.43387485740342
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 185.284468502317,
+            "debugScore": 88.23683780147024,
+            "firstConsScore": 186.8553054314219
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 248.15790358159032,
+            "debugScore": 98.09607626368017,
+            "firstConsScore": 231.26177315546298
+        }
+    ],
+    "60836": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 286.9519177460003,
+            "debugScore": 93.90198320229642,
+            "firstConsScore": 196.7482233536144
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 228.46583483149647,
+            "debugScore": 84.11869405792777,
+            "firstConsScore": 187.51355388421064
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 288.61001210423495,
+            "debugScore": 116.80149755620135,
+            "firstConsScore": 185.1174313790858
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 227.8845167913886,
+            "debugScore": 102.1102591671166,
+            "firstConsScore": 180.33143729224267
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 202.76024923048448,
+            "debugScore": 136.13940978994657,
+            "firstConsScore": 273.87872204925
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 330.8795439364749,
+            "debugScore": 201.5201472702364,
+            "firstConsScore": 192.49418092511874
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 190.41358007234737,
+            "debugScore": 101.82955914931013,
+            "firstConsScore": 322.90046087611034
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 232.00452326908268,
+            "debugScore": 114.4208047775664,
+            "firstConsScore": 299.91428255424535
+        }
+    ],
+    "60839": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 287.2721521297802,
+            "debugScore": 174.91281090804515,
+            "firstConsScore": 241.83693453637687
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 303.48156556741117,
+            "debugScore": 155.09349513091797,
+            "firstConsScore": 227.43075356194194
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 307.31427614549716,
+            "debugScore": 135.4826429005443,
+            "firstConsScore": 255.12609869599143
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 280.74531019375064,
+            "debugScore": 200.99899345649789,
+            "firstConsScore": 235.19502334307336
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 240.52221302640623,
+            "debugScore": 125.88655672771992,
+            "firstConsScore": 222.57584219546388
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 354.4897338226975,
+            "debugScore": 172.8025096743741,
+            "firstConsScore": 314.58865843579326
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 237.14714371409548,
+            "debugScore": 141.08855931404645,
+            "firstConsScore": 224.0338989366202
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 277.0923643438605,
+            "debugScore": 228.59124917365727,
+            "firstConsScore": 256.0753151323271
+        }
+    ],
+    "60891": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 228.7109275359452,
+            "debugScore": 342.431507864218,
+            "firstConsScore": 141.78595686684884
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 253.30768012833695,
+            "debugScore": 174.21291097429912,
+            "firstConsScore": 191.91474362158323
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 219.64709193097997,
+            "debugScore": 191.90912131088422,
+            "firstConsScore": 213.41389376637073
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 232.016075216894,
+            "debugScore": 505.40260312554096,
+            "firstConsScore": 181.89876353427033
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 244.57048097257928,
+            "debugScore": 273.78156647587707,
+            "firstConsScore": 232.65318685595335
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 235.55980661965495,
+            "debugScore": 248.1378791509705,
+            "firstConsScore": 151.96232566305213
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 230.80031802371772,
+            "debugScore": 486.0806955935981,
+            "firstConsScore": 135.20144588925135
+        }
+    ],
+    "61046": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 240.4767030382602,
+            "debugScore": 210.13009082145828,
+            "firstConsScore": 148.61650289037885
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 234.2600360888256,
+            "debugScore": 82.63413769173317,
+            "firstConsScore": 247.82833647495875
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 246.88491535886124,
+            "debugScore": 237.7572547870067,
+            "firstConsScore": 159.00890571647977
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 246.7594726203299,
+            "debugScore": 187.66660871529805,
+            "firstConsScore": 192.48047998070166
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 225.99074845913253,
+            "debugScore": 99.23996777462794,
+            "firstConsScore": 248.57437430846687
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 254.77420801628398,
+            "debugScore": 99.69358293072091,
+            "firstConsScore": 238.86956406104542
+        }
+    ],
+    "61048": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 223.73898780116264,
+            "debugScore": 150.86582294793803,
+            "firstConsScore": 190.9321346801248
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 210.7776929162687,
+            "debugScore": 166.475266614492,
+            "firstConsScore": 217.15179256232028
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 298.2833114517944,
+            "debugScore": 103.48520318513019,
+            "firstConsScore": 201.7366422430371
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 220.733516059,
+            "debugScore": 134.12886785719851,
+            "firstConsScore": 210.16640842744786
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 246.85830491812771,
+            "debugScore": 141.24838156421225,
+            "firstConsScore": 177.4636065115057
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 263.1409066600178,
+            "debugScore": 86.43637945039663,
+            "firstConsScore": 179.94888308021004
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 257.36127729807504,
+            "debugScore": 138.00644212180526,
+            "firstConsScore": 228.16556290451388
+        }
+    ],
+    "61715": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 196.19,
+            "debugScore": 76.48,
+            "firstConsScore": 129.31
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 228.86052037547464,
+            "debugScore": 97.3626256167598,
+            "firstConsScore": 194.20871785590163
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 216.6851184953765,
+            "debugScore": 115.74252077896742,
+            "firstConsScore": 149.772412240658
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 236.05697139477613,
+            "debugScore": 104.6669892396489,
+            "firstConsScore": 155.42576353483472
+        }
+    ],
+    "60628": [
+        {
+            "case_type": "查找算法",
+            "algorthmScore": 264.14222626741685,
+            "debugScore": 96.11014485940879,
+            "firstConsScore": 384.083794748767
+        },
+        {
+            "case_type": "排序算法",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "树结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "数字操作",
+            "algorthmScore": 257.76424176491344,
+            "debugScore": 90.95960061408245,
+            "firstConsScore": 267.4136290111394
+        },
+        {
+            "case_type": "数组",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "图结构",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "线性表",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        },
+        {
+            "case_type": "字符串",
+            "algorthmScore": 0,
+            "debugScore": 0,
+            "firstConsScore": 0
+        }
+    ]
+}
