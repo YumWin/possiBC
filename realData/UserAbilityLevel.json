@@ -1,0 +1,217 @@
+{
+    "49823": {
+        "debugRSR": 0.6129143396525072,
+        "firstConstructionRSR": 0.4076586028929737,
+        "algorithmRSR": 0.4365073604228698
+    },
+    "60580": {
+        "debugRSR": 0.3548772268128588,
+        "firstConstructionRSR": 0.3482300538448205,
+        "algorithmRSR": 0.458814992976072
+    },
+    "60591": {
+        "debugRSR": 0.1037230908991374,
+        "firstConstructionRSR": 1.064466980763021,
+        "algorithmRSR": 0.5255904205289046
+    },
+    "60592": {
+        "debugRSR": 0.534047205575723,
+        "firstConstructionRSR": 0.6247485422445013,
+        "algorithmRSR": 0.6442409582104883
+    },
+    "60601": {
+        "debugRSR": 0.1691554643714657,
+        "firstConstructionRSR": 0.9390429014781695,
+        "algorithmRSR": 0.5086348434501778
+    },
+    "60605": {
+        "debugRSR": 0.5958158273458303,
+        "firstConstructionRSR": 0.7017073547703355,
+        "algorithmRSR": 0.4919427603084762
+    },
+    "60610": {
+        "debugRSR": 0.444462216194291,
+        "firstConstructionRSR": 0.5616635071521038,
+        "algorithmRSR": 0.6613612449617382
+    },
+    "60614": {
+        "debugRSR": 0.5197152663769278,
+        "firstConstructionRSR": 0.608097109797516,
+        "algorithmRSR": 0.7255552819246421
+    },
+    "60618": {
+        "debugRSR": 0.9035517170310563,
+        "firstConstructionRSR": 0.4357221494063309,
+        "algorithmRSR": 0.5861690537297121
+    },
+    "60622": {
+        "debugRSR": 0.6309936659408473,
+        "firstConstructionRSR": 0.1587130760436625,
+        "algorithmRSR": 0.6801587325155941
+    },
+    "60623": {
+        "debugRSR": 0.749419176972421,
+        "firstConstructionRSR": 0.2152293451066088,
+        "algorithmRSR": 0.5371139409385203
+    },
+    "60625": {
+        "debugRSR": 0.2579307664477348,
+        "firstConstructionRSR": 0.5921085097889617,
+        "algorithmRSR": 0.2252024713599059
+    },
+    "60644": {
+        "debugRSR": 0.3970790929388113,
+        "firstConstructionRSR": 0.6803935160521094,
+        "algorithmRSR": 0.469863846808627
+    },
+    "60648": {
+        "debugRSR": 0.6940822489276994,
+        "firstConstructionRSR": 0.4495481350955538,
+        "algorithmRSR": 0.2893965083228101
+    },
+    "60649": {
+        "debugRSR": 0.2386247906881191,
+        "firstConstructionRSR": 0.8657792305576163,
+        "algorithmRSR": 0.5995442744996654
+    },
+    "60667": {
+        "debugRSR": 0.1395052554161609,
+        "firstConstructionRSR": 0.6606760911948538,
+        "algorithmRSR": 0.9527469920754251
+    },
+    "60670": {
+        "debugRSR": 0.8066622893344955,
+        "firstConstructionRSR": 0.3786750564816787,
+        "algorithmRSR": 0.5086348434501778
+    },
+    "60673": {
+        "debugRSR": 0.444462216194291,
+        "firstConstructionRSR": 0.3322414538362662,
+        "algorithmRSR": 0.548871380481239
+    },
+    "60678": {
+        "debugRSR": 0.579511865063145,
+        "firstConstructionRSR": 0.4907904285382284,
+        "algorithmRSR": 0.5733262514304055
+    },
+    "60691": {
+        "debugRSR": 0.5638569037063756,
+        "firstConstructionRSR": 0.2796624724389285,
+        "algorithmRSR": 0.364588699554836
+    },
+    "60697": {
+        "debugRSR": 0.1948421834608827,
+        "firstConstructionRSR": 0.7989090307395396,
+        "algorithmRSR": 0.4477093051294354
+    },
+    "60699": {
+        "debugRSR": 0.4781905305213938,
+        "firstConstructionRSR": 0.7989090307395396,
+        "algorithmRSR": 0.560919995374278
+    },
+    "60712": {
+        "debugRSR": 0.7197689680171167,
+        "firstConstructionRSR": 0.2981271054623383,
+        "algorithmRSR": 0.7725156006574142
+    },
+    "60721": {
+        "debugRSR": 0.4107339018671883,
+        "firstConstructionRSR": 0.5326799607408085,
+        "algorithmRSR": 0.9527469920754251
+    },
+    "60723": {
+        "debugRSR": 0.3692091660116543,
+        "firstConstructionRSR": 0.7251092185271734,
+        "algorithmRSR": 0.6284029868335267
+    },
+    "60731": {
+        "debugRSR": 0.3250675286822065,
+        "firstConstructionRSR": 0.4217763290894606,
+        "algorithmRSR": 0.7725156006574142
+    },
+    "60747": {
+        "debugRSR": 0.5056684670490104,
+        "firstConstructionRSR": 0.75134337316309,
+        "algorithmRSR": 0.480893906475921
+    },
+    "60765": {
+        "debugRSR": 0.6711687185001656,
+        "firstConstructionRSR": 0.2495140450609948,
+        "algorithmRSR": 0.3223547664510213
+    },
+    "60778": {
+        "debugRSR": 0.4242713767910857,
+        "firstConstructionRSR": 0.3636751771958072,
+        "algorithmRSR": 0.4136438123460278
+    },
+    "60781": {
+        "debugRSR": 0.3832559653395715,
+        "firstConstructionRSR": 0.6422114581714439,
+        "algorithmRSR": 0.3959023677111869
+    },
+    "60791": {
+        "debugRSR": 0.4918453394497708,
+        "firstConstructionRSR": 0.5470261255595025,
+        "algorithmRSR": 0.3512134787848826
+    },
+    "60793": {
+        "debugRSR": 1.026358536475048,
+        "firstConstructionRSR": 0.5185622345443218,
+        "algorithmRSR": 0.6135713173113656
+    },
+    "60794": {
+        "debugRSR": 0.2177557138884167,
+        "firstConstructionRSR": 0.4770351981481101,
+        "algorithmRSR": 0.2495265027687381
+    },
+    "60796": {
+        "debugRSR": 0.650299641700463,
+        "firstConstructionRSR": 0.5766633864379752,
+        "algorithmRSR": 0.1576061913166261
+    },
+    "60797": {
+        "debugRSR": 0.8066622893344955,
+        "firstConstructionRSR": 0.07455933307616636,
+        "algorithmRSR": 0.3959023677111869
+    },
+    "60810": {
+        "debugRSR": 0.2760100927360749,
+        "firstConstructionRSR": 0.3933124380742797,
+        "algorithmRSR": 0.4251673327556433
+    },
+    "60836": {
+        "debugRSR": 0.2931086050427518,
+        "firstConstructionRSR": 0.4633033654856723,
+        "algorithmRSR": 0.3774315018541426
+    },
+    "60839": {
+        "debugRSR": 0.4646530555974964,
+        "firstConstructionRSR": 0.5046164142274515,
+        "algorithmRSR": 0.7012312505158101
+    },
+    "60891": {
+        "debugRSR": 0.5487340781255952,
+        "firstConstructionRSR": 0.1221683217728007,
+        "algorithmRSR": 0.270599020768954
+    },
+    "61046": {
+        "debugRSR": 0.3401903542629867,
+        "firstConstructionRSR": 0.2495140450609948,
+        "algorithmRSR": 0.3065167950740598
+    },
+    "61048": {
+        "debugRSR": 0.3094125673254369,
+        "firstConstructionRSR": 0.3155900213892812,
+        "algorithmRSR": 0.3371864359731825
+    },
+    "61715": {
+        "debugRSR": 0.05710757247464004,
+        "firstConstructionRSR": 0.001295662155612387,
+        "algorithmRSR": 0.09875733395258368
+    },
+    "60628": {
+        "debugRSR": -0.01462728464247454,
+        "firstConstructionRSR": 0.1889951904706925,
+        "algorithmRSR": 0.1958479904218429
+    }
+}
