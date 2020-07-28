@@ -1,0 +1,42 @@
+{
+   "user25999": {
+     "user_id": "user25999",
+     "cases": [
+       {
+         "case_id": "题号2512",
+         "case_type": "排序算法",
+         "case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单词分类_1581144899702.zip",
+         "final_score": 40,
+         "upload_records": [
+           {
+             "upload_id": 236494,
+             "upload_time": 1582023290656,
+             "code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/user25999/%E5%90%8E%E7%BC%80%E6%8E%92%E5%BA%8F_1582105167736.zip",
+             "score": 40.0
+           }
+         ]
+       }
+     ]
+   },
+  "user48117": {
+    "user_id": "user48117",
+    "cases": [
+      {
+        "case_id": "题号2222",
+        "case_type": "线性表算法",
+        "case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/子串查找_1577868767370.zip",
+        "final_score": 100,
+        "upload_records": [
+          {
+            "upload_id": 249317,
+            "upload_time": 1582445733033,
+            "code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/user48117/%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0_1584197128695.zip",
+            "score": 0.0
+          }
+        ]
+      }
+    ]
+  }
+
+
+}
